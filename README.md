@@ -1,7 +1,7 @@
 
 <img width="1536" height="1024" alt="20260330_1259_Image Generation_remix_01kmztyrrzeattr07c8yjgm3xd(1)" src="https://github.com/user-attachments/assets/a4656a4f-3c4b-44cc-a6e3-1046f60dec79" />
 
-# Crimson Desert Save Editor 2026 – Full Save Editor for Crimson Desert
+# Crimson Desert Save Editor
 [![Stars](https://img.shields.io/github/stars/12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC)](https://github.com/12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Complete ready-to-use **Crimson Desert Save Editor** — the most powerful save editor for Crimson Desert. Edit character stats, level, skills, inventory, money, weapons, quest progress, reputation, and much more. Unlock all items, max level, infinite resources, and customize your save file easily with a user-friendly interface.
